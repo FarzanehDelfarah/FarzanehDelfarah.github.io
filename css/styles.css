@@ -1,8 +1,8 @@
 /* Base Styles */
 :root {
-    --primary-color: #10a37f;
-    --primary-dark: #0d8a6f;
-    --primary-light: #34d399;
+    --primary-color: #663399;
+    --primary-dark: #4B0082;
+    --primary-light: #B19CD9;
     --secondary-color: #0f172a;
     --accent-color: #8b5cf6;
     --text-color: #f1f5f9;
@@ -16,9 +16,9 @@
 }
 
 :root.light-mode {
-    --primary-color: #10a37f;
-    --primary-dark: #0d8a6f;
-    --primary-light: #34d399;
+    --primary-color: #663399;
+    --primary-dark: #4B0082;
+    --primary-light: #B19CD9;
     --secondary-color: #0f172a;
     --accent-color: #8b5cf6;
     --text-color: #1e293b;
